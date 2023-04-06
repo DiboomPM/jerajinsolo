@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var arr = new Array('a', 'b', 'c', 'd', 'e');
+        // length - 배열의 길이
+        console.log(arr.length);
+
+        // push 배열 마지막에 데이터 넣기 
+        arr.push(100);
+        console.log(arr);
+
+        // pop 배열 마지막 데이터 빼기
+        arr.pop();
+        console.log(arr);
+
+        //unshift - 맨 앞에 추가 
+        arr.unshift(100);
+        console.log(arr);
+
+        //shift - 맨 앞에 데이터 삭제 
+        arr.shift();
+        console.log(arr);
+
+        //splice - 배열 중간의 데이터 추가/제거
+
+        arr.splice(0, 1);
+        console.log(arr);
+        arr.splice(1, 2);
+        console.log(arr);
+        arr.splice(1, 0, 'park', 'kim', 'lee');
+        console.log(arr);
+
+
+        // 배열의 정렬 방법
+        //sort()
+        arr.sort();
+        console.log(arr);
+
+        //reverse();
+        arr.reverse();
+        console.log(arr);
+        
+    </script>
+</body>
+</html>

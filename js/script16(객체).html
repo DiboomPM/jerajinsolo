@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        var person = {name: "김지우", age: 24, arr: [1,2,3]};
+
+        //객체에 접근하는 첫번째 방법 
+        console.log(person.name);
+        console.log(person.age);
+        console.log(person.arr[0]);
+
+        // 두번째 방법
+        console.log(person["name"]);
+        console.log(person["age"]);
+        console.log(person["arr"][0]);
+
+
+        var exam = {math:50, eng:70, kor:90};
+        var kim = {name: "김길동", exam: exam};
+
+        console.log(kim.name);
+        console.log(kim.exam);
+        console.log(kim.exam.eng);
+
+        // 배열 안에 객체 
+        var arr = [ 
+            {id:1, title:"kimjiwoo", content: "안냐세요 츄에여~"},
+            {id:2, title:"noyoonseo", content: "안녕하세여 노윤서입니다."}
+        ];
+
+
+        console.log(arr);
+        console.log(arr[0].id);
+        console.log(arr[0].title);
+        console.log(arr[0].content);
+        console.log(arr[1].id);
+        console.log(arr[1].title);
+        console.log(arr[1].content);
+
+
+        
+
+
+
+    </script>
+</body>
+</html>

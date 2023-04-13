@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLineNote", "ReadLineNote\ReadLineNote.csproj", "{8B63E25F-AC8A-448E-A30C-8694F033535F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B63E25F-AC8A-448E-A30C-8694F033535F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B63E25F-AC8A-448E-A30C-8694F033535F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B63E25F-AC8A-448E-A30C-8694F033535F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B63E25F-AC8A-448E-A30C-8694F033535F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43B6C01-6D07-4A1C-A2EE-2DB5194E7DFA}
+	EndGlobalSection
+EndGlobal

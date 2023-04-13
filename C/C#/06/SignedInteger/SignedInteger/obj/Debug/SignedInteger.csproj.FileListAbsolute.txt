@@ -1,0 +1,6 @@
+C:\orclejava\C#\06\SignedInteger\SignedInteger\bin\Debug\SignedInteger.exe.config
+C:\orclejava\C#\06\SignedInteger\SignedInteger\bin\Debug\SignedInteger.exe
+C:\orclejava\C#\06\SignedInteger\SignedInteger\bin\Debug\SignedInteger.pdb
+C:\orclejava\C#\06\SignedInteger\SignedInteger\obj\Debug\SignedInteger.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\06\SignedInteger\SignedInteger\obj\Debug\SignedInteger.exe
+C:\orclejava\C#\06\SignedInteger\SignedInteger\obj\Debug\SignedInteger.pdb

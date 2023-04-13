@@ -1,0 +1,6 @@
+C:\orclejava\C#\ClassSimple\ClassSimple\bin\Debug\ClassSimple.exe.config
+C:\orclejava\C#\ClassSimple\ClassSimple\bin\Debug\ClassSimple.exe
+C:\orclejava\C#\ClassSimple\ClassSimple\bin\Debug\ClassSimple.pdb
+C:\orclejava\C#\ClassSimple\ClassSimple\obj\Debug\ClassSimple.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\ClassSimple\ClassSimple\obj\Debug\ClassSimple.exe
+C:\orclejava\C#\ClassSimple\ClassSimple\obj\Debug\ClassSimple.pdb

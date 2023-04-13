@@ -1,0 +1,7 @@
+C:\orclejava\C#\06\integerDemo2\integerDemo2\bin\Debug\integerDemo2.exe.config
+C:\orclejava\C#\06\integerDemo2\integerDemo2\bin\Debug\integerDemo2.exe
+C:\orclejava\C#\06\integerDemo2\integerDemo2\bin\Debug\integerDemo2.pdb
+C:\orclejava\C#\06\integerDemo2\integerDemo2\obj\Debug\integerDemo2.csproj.AssemblyReference.cache
+C:\orclejava\C#\06\integerDemo2\integerDemo2\obj\Debug\integerDemo2.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\06\integerDemo2\integerDemo2\obj\Debug\integerDemo2.exe
+C:\orclejava\C#\06\integerDemo2\integerDemo2\obj\Debug\integerDemo2.pdb

@@ -1,0 +1,7 @@
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\bin\Debug\HelloWorldNetWithVisualStudio.exe.config
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\bin\Debug\HelloWorldNetWithVisualStudio.exe
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\bin\Debug\HelloWorldNetWithVisualStudio.pdb
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\obj\Debug\HelloWorldNetWithVisualStudio.csproj.AssemblyReference.cache
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\obj\Debug\HelloWorldNetWithVisualStudio.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\obj\Debug\HelloWorldNetWithVisualStudio.exe
+C:\orclejava\C#\HelloWorldNetWithVisualStudio\HelloWorldNetWithVisualStudio\obj\Debug\HelloWorldNetWithVisualStudio.pdb

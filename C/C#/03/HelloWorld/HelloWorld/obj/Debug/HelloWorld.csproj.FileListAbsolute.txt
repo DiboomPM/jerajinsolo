@@ -1,0 +1,6 @@
+C:\orclejava\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\orclejava\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\orclejava\C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\orclejava\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\orclejava\C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

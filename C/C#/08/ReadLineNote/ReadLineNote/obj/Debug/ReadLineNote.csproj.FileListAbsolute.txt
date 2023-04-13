@@ -1,0 +1,7 @@
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.exe.config
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.exe
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.pdb
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.csproj.AssemblyReference.cache
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.exe
+C:\orclejava\C#\08\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.pdb

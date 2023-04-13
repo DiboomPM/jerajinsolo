@@ -1,0 +1,6 @@
+C:\orclejava\C#\EmptySTatement\EmptySTatement\bin\Debug\EmptySTatement.exe.config
+C:\orclejava\C#\EmptySTatement\EmptySTatement\bin\Debug\EmptySTatement.exe
+C:\orclejava\C#\EmptySTatement\EmptySTatement\bin\Debug\EmptySTatement.pdb
+C:\orclejava\C#\EmptySTatement\EmptySTatement\obj\Debug\EmptySTatement.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\EmptySTatement\EmptySTatement\obj\Debug\EmptySTatement.exe
+C:\orclejava\C#\EmptySTatement\EmptySTatement\obj\Debug\EmptySTatement.pdb

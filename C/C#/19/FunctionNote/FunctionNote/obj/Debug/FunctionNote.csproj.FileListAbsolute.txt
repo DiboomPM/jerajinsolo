@@ -1,0 +1,7 @@
+C:\orclejava\C#\19\FunctionNote\FunctionNote\bin\Debug\FunctionNote.exe.config
+C:\orclejava\C#\19\FunctionNote\FunctionNote\bin\Debug\FunctionNote.exe
+C:\orclejava\C#\19\FunctionNote\FunctionNote\bin\Debug\FunctionNote.pdb
+C:\orclejava\C#\19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.csproj.AssemblyReference.cache
+C:\orclejava\C#\19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.exe
+C:\orclejava\C#\19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.pdb

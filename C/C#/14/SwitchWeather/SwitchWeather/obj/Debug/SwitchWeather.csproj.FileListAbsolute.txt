@@ -1,0 +1,7 @@
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\bin\Debug\SwitchWeather.exe.config
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\bin\Debug\SwitchWeather.exe
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\bin\Debug\SwitchWeather.pdb
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\obj\Debug\SwitchWeather.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\obj\Debug\SwitchWeather.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\obj\Debug\SwitchWeather.exe
+C:\study\jerajinsolo\C\C#\14\SwitchWeather\SwitchWeather\obj\Debug\SwitchWeather.pdb

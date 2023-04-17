@@ -1,0 +1,6 @@
+C:\study\jerajinsolo\C\C#\15\SeeSharpSum100\SeeSharpSum100\bin\Debug\SeeSharpSum100.exe.config
+C:\study\jerajinsolo\C\C#\15\SeeSharpSum100\SeeSharpSum100\bin\Debug\SeeSharpSum100.exe
+C:\study\jerajinsolo\C\C#\15\SeeSharpSum100\SeeSharpSum100\bin\Debug\SeeSharpSum100.pdb
+C:\study\jerajinsolo\C\C#\15\SeeSharpSum100\SeeSharpSum100\obj\Debug\SeeSharpSum100.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\15\SeeSharpSum100\SeeSharpSum100\obj\Debug\SeeSharpSum100.exe
+C:\study\jerajinsolo\C\C#\15\SeeSharpSum100\SeeSharpSum100\obj\Debug\SeeSharpSum100.pdb

@@ -1,0 +1,7 @@
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\bin\Debug\GotoDemo.exe.config
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\bin\Debug\GotoDemo.exe
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\bin\Debug\GotoDemo.pdb
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\obj\Debug\GotoDemo.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\obj\Debug\GotoDemo.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\obj\Debug\GotoDemo.exe
+C:\study\jerajinsolo\C\C#\17\GotoDemo\GotoDemo\obj\Debug\GotoDemo.pdb

@@ -1,0 +1,6 @@
+C:\orclejava\C#\23\Enum\Enum\bin\Debug\Enum.exe.config
+C:\orclejava\C#\23\Enum\Enum\bin\Debug\Enum.exe
+C:\orclejava\C#\23\Enum\Enum\bin\Debug\Enum.pdb
+C:\orclejava\C#\23\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\23\Enum\Enum\obj\Debug\Enum.exe
+C:\orclejava\C#\23\Enum\Enum\obj\Debug\Enum.pdb

@@ -1,0 +1,7 @@
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.exe.config
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.exe
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.pdb
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\obj\Debug\EnumerationTextbook.csproj.AssemblyReference.cache
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\obj\Debug\EnumerationTextbook.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\obj\Debug\EnumerationTextbook.exe
+C:\orclejava\C#\22\EnumerationTextbook\EnumerationTextbook\obj\Debug\EnumerationTextbook.pdb

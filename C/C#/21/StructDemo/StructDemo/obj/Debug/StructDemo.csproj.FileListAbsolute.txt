@@ -1,0 +1,7 @@
+C:\orclejava\C#\21\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
+C:\orclejava\C#\21\StructDemo\StructDemo\bin\Debug\StructDemo.exe
+C:\orclejava\C#\21\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
+C:\orclejava\C#\21\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.AssemblyReference.cache
+C:\orclejava\C#\21\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\orclejava\C#\21\StructDemo\StructDemo\obj\Debug\StructDemo.exe
+C:\orclejava\C#\21\StructDemo\StructDemo\obj\Debug\StructDemo.pdb

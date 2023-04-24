@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithm", "DulAlgorithm\DulAlgorithm.csproj", "{6CAE2FD2-8842-4E16-A747-23C13FEC82F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithm.ConsoleApp", "DulAlgorithm.ConsoleApp\DulAlgorithm.ConsoleApp.csproj", "{2A199CD7-1BFB-4FB2-97FB-083C4A4E34E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAE2FD2-8842-4E16-A747-23C13FEC82F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAE2FD2-8842-4E16-A747-23C13FEC82F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAE2FD2-8842-4E16-A747-23C13FEC82F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAE2FD2-8842-4E16-A747-23C13FEC82F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A199CD7-1BFB-4FB2-97FB-083C4A4E34E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A199CD7-1BFB-4FB2-97FB-083C4A4E34E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A199CD7-1BFB-4FB2-97FB-083C4A4E34E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A199CD7-1BFB-4FB2-97FB-083C4A4E34E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF3574A-8435-4019-BD61-185DE4D3D165}
+	EndGlobalSection
+EndGlobal

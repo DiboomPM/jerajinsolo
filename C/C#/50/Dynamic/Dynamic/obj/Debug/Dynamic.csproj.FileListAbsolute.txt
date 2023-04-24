@@ -1,0 +1,7 @@
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\study\jerajinsolo\C\C#\50\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

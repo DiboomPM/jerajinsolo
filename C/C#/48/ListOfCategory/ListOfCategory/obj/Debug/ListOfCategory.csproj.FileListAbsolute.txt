@@ -1,0 +1,7 @@
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\bin\Debug\ListOfCategory.exe.config
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\bin\Debug\ListOfCategory.exe
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\bin\Debug\ListOfCategory.pdb
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\obj\Debug\ListOfCategory.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\obj\Debug\ListOfCategory.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\obj\Debug\ListOfCategory.exe
+C:\study\jerajinsolo\C\C#\48\ListOfCategory\ListOfCategory\obj\Debug\ListOfCategory.pdb

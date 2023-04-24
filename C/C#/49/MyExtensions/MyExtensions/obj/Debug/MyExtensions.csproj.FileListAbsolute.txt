@@ -1,0 +1,7 @@
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\bin\Debug\MyExtensions.exe.config
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\bin\Debug\MyExtensions.exe
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\bin\Debug\MyExtensions.pdb
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.exe
+C:\study\jerajinsolo\C\C#\49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.pdb

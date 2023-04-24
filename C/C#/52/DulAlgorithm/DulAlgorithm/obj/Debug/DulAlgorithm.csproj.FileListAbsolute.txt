@@ -1,0 +1,2 @@
+C:\study\jerajinsolo\C\C#\52\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\52\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadNote", "ThreadNote\ThreadNote.csproj", "{228E4CEC-FB91-45AE-AC9D-B1056E83B789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228E4CEC-FB91-45AE-AC9D-B1056E83B789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228E4CEC-FB91-45AE-AC9D-B1056E83B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228E4CEC-FB91-45AE-AC9D-B1056E83B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228E4CEC-FB91-45AE-AC9D-B1056E83B789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A542AC2A-6D04-4676-9237-3D023BF52256}
+	EndGlobalSection
+EndGlobal

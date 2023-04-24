@@ -1,0 +1,6 @@
+C:\study\jerajinsolo\C\C#\55\ThreadNote\ThreadNote\bin\Debug\ThreadNote.exe.config
+C:\study\jerajinsolo\C\C#\55\ThreadNote\ThreadNote\bin\Debug\ThreadNote.exe
+C:\study\jerajinsolo\C\C#\55\ThreadNote\ThreadNote\bin\Debug\ThreadNote.pdb
+C:\study\jerajinsolo\C\C#\55\ThreadNote\ThreadNote\obj\Debug\ThreadNote.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\55\ThreadNote\ThreadNote\obj\Debug\ThreadNote.exe
+C:\study\jerajinsolo\C\C#\55\ThreadNote\ThreadNote\obj\Debug\ThreadNote.pdb

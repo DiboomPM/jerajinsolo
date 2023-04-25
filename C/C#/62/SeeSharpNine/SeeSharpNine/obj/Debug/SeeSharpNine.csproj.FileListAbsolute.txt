@@ -1,0 +1,7 @@
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\bin\Debug\SeeSharpNine.exe.config
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\bin\Debug\SeeSharpNine.exe
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\bin\Debug\SeeSharpNine.pdb
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\obj\Debug\SeeSharpNine.csproj.AssemblyReference.cache
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\obj\Debug\SeeSharpNine.csproj.CoreCompileInputs.cache
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\obj\Debug\SeeSharpNine.exe
+C:\study\jerajinsolo\C\C#\62\SeeSharpNine\SeeSharpNine\obj\Debug\SeeSharpNine.pdb

@@ -37,25 +37,27 @@ namespace ThreadNote
             Console.WriteLine($"요리 종료 : {(DateTime.Now - start).TotalSeconds}");
 
             Console.WriteLine($"식사 시작");
-            SinglePro();
+            //SinglePro();
             MultiPro();
 
             Console.WriteLine($"식사 종료: {(DateTime.Now - start).TotalSeconds}");
         }
-    }
 
-    private void SinglePro()
-    {
-        for(int i = 0; i < 20_000; i++)
+        private void SinglePro()
         {
-            Console.WriteLine("수다");
+            for (int i = 0; i < 200_000; i++)
+            {
+                Console.WriteLine("수다");
+            }
+        }
+
+        private void MultiPro()
+        {
+            Parallel.For(0, 200_000, (i) => { Console.WriteLine(i); });
         }
     }
 
-    private void MultiPro()
-    {
-        throw new NotImplementedException();
-    }
+    
 
     class ThreadNote
     {
